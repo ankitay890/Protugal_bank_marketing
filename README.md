@@ -10,6 +10,8 @@ The different models used are Logistic Regression, Descision Trees, Random Fores
 The Recall & Accuracy scores are:
 
 Recall vlaue Class 0- 0.85
+
 Recall value Class 1- 0.85
+
 Accuracy- 85%
 
